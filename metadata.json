@@ -1,0 +1,6 @@
+{
+  "name": "Nothing Launcher",
+  "description": "Minimalist monochrome Nothing OS launcher with dot-matrix widgets, fluid physics, and gesture controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
